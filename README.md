@@ -2,7 +2,7 @@
 ## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
 ### Responsive Portfolio Website Alexa
 
-- Responsive Personal Portfolio Website Using HTML CSS & javascrip
+- Responsive Personal Portfolio Website Using HTML CSS & javascript
 - Smooth scrolling in each section.
 - Includes a light and dark mode.
 - Developed first with the Mobile First methodology, then for desktop.
